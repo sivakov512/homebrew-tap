@@ -4,7 +4,7 @@ class Kiadopt < Formula
   desc "Copy parts from KiCad 10 libraries into the project library"
   homepage "https://github.com/sivakov512/kiadopt"
   url "https://github.com/sivakov512/kiadopt/releases/download/v0.1.1/kiadopt-0.1.1.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "a7164f022a958789d79f0a7c37ab2fc14bf7207dcbf0178d5e5b2f4895806e2c"
   license "MIT"
 
   depends_on "python-setuptools" => :build
