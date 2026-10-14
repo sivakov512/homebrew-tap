@@ -3,8 +3,8 @@ class Kiadopt < Formula
 
   desc "Copy parts from KiCad 10 libraries into the project library"
   homepage "https://github.com/sivakov512/kiadopt"
-  url "https://github.com/sivakov512/kiadopt/releases/download/v0.1.1/kiadopt-0.1.1-py3-none-any.whl", using: :nounzip
-  sha256 "bf22cea1c43d5491f1f2dbec4611b7e112a6018bb12a26ed7898b7628f742abe"
+  url "https://github.com/sivakov512/kiadopt/releases/download/v0.1.2/kiadopt-0.1.2-py3-none-any.whl", using: :nounzip
+  sha256 "43e5011270ace2f6c3f3167e0f1cee12dabe0b17d446512c2824c3c287267df1"
   license "MIT"
 
   depends_on "python@3.14"
